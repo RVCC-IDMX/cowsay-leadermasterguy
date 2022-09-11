@@ -1,0 +1,25 @@
+{
+  "name": "cowsay-leadermasterguy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "help": "cowsay -h",
+    "cows": "cowsay -l}",
+    "cowsay": "cowsay"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/cowsay-leadermasterguy.git"
+  },
+  "keywords": [],
+  "author": "Nicholas Trilone <nicholastrilone20@gmail.com> (https://github.com/leadermasterguy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/cowsay-leadermasterguy/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-leadermasterguy#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
